@@ -1,6 +1,6 @@
 # Device Sync Performance Testing Script
 
-Please see this article: TODO
+Please see this article: https://medium.com/@tkaye407/atlas-device-sync-defining-and-measuring-performance-3b3ef9fdac45
 
 Testing the performance of Device Sync has typically been a daunting task. On top of the fact that it is difficult to
 define what performance means exactly, there are a lot of factors that affect that performance.
