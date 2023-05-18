@@ -1,0 +1,18 @@
+{
+  "name": "atlas-device-sync-performance-testing",
+  "version": "1.0.0",
+  "description": "MongoDB Atlas Device Sync performance testing script.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "tsx src/index.tsx"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "@types/node": "^16.11.39",
+    "bson": "^5.2.0",
+    "realm": "^11.8.0",
+    "tsx": "^3.12.7"
+  }
+}

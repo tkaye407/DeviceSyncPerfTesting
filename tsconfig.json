@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "outDir": "dist",
+    "sourceMap": true,
+    "strict": true,
+    "jsx": "react"
+  },
+  "files": ["./node_modules/@types/node/index.d.ts"],
+  "include": ["src/**/*.ts", "src/utilities.tsx", "src/**/*.tsx"],
+  "exclude": ["node_modules"]
+}
